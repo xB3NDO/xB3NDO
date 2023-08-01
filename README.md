@@ -1,26 +1,19 @@
+👋 Bonjour ! Je suis xB3NDO, un développeur de scripts passionné dédié à FiveM. Ces derniers mois, je me suis plongé dans l'univers de la création de scripts pour moi-même, et aujourd'hui, je suis ravi de partager mes créations avec vous ! 🚀
 
-Salut ! Je suis xB3NDO, développeur de scripts FiveM passionné. Depuis quelques mois, je me suis plongé dans le monde de la création de scripts pour moi-même, et aujourd'hui, je suis ravi de partager mes créations avec le public !
+💼 Mes compétences comprennent :
+- Lua
+- C#
+- JavaScript
+- HTML/CSS
 
-Mes compétences
-Lua
-C#
-JavaScript
-HTML/CSS
+🔨 Mes projets sont variés et résultent en une solide expérience dans le développement de scripts pour FiveM. Mon objectif est de proposer des ressources qui enrichiront l'expérience de jeu de chacun, en offrant des fonctionnalités uniques pour les serveurs FiveM.
 
-Mes projets
-Au fil des mois, j'ai acquis une solide expérience dans le développement de scripts pour FiveM, et je me suis efforcé de créer des ressources qui enrichiront l'expérience de jeu de chacun. Mes projets sont variés et visent à offrir des fonctionnalités uniques pour les serveurs FiveM.
+🌟 Si vous êtes à la recherche de scripts innovants, ne cherchez plus ! Explorez mes dépôts et découvrez des créations performantes et faciles à utiliser, conçues avec passion.
 
-Si vous cherchez des scripts innovants, n'hésitez pas à explorer mes dépôts. J'ai mis tout mon cœur dans leur développement pour qu'ils soient aussi performants que faciles à utiliser.
+🤝 Contribuer à la communauté est essentiel pour moi, car je crois en l'esprit de partage. Si vous souhaitez améliorer mes scripts ou avez des suggestions d'amélioration, n'hésitez pas à ouvrir une Pull Request. Toute aide est la bienvenue ! 👍
 
-Contribuer
-Je crois en la communauté et en l'esprit de partage. Si vous souhaitez contribuer à l'amélioration de mes scripts ou que vous avez des suggestions d'amélioration, n'hésitez pas à ouvrir une Pull Request. Toute aide est la bienvenue !
+🆘 Besoin d'aide ? Consultez mes discussions sur le forum officiel de FiveM à l'adresse suivante : https://forum.cfx.re/u/B3NDO/activity/topics. N'hésitez pas à poser vos questions ou partager vos retours d'expérience. Je suis toujours heureux de vous aider à tirer le meilleur parti de mes scripts. 😊
 
-Besoin d'aide ?
-Si vous rencontrez des difficultés avec l'une de mes créations ou si vous avez simplement besoin d'aide pour les intégrer à votre serveur FiveM, je vous invite à consulter mes discussions sur le forum officiel de FiveM à l'adresse suivante : https://forum.cfx.re/.
+💾 Téléchargez mes scripts dès maintenant ! Offrez à votre serveur FiveM des ressources de qualité qui apporteront une touche unique à l'expérience de votre communauté. Je me suis investi corps et âme dans leur création, et je suis convaincu qu'ils vous procureront une expérience de jeu inoubliable. 🎮
 
-N'hésitez pas à poser vos questions ou à partager vos retours d'expérience. Je suis toujours heureux de vous aider à tirer le meilleur parti de mes scripts.
-
-Téléchargez mes scripts !
-Si vous recherchez des ressources de qualité pour votre serveur FiveM, ne cherchez pas plus loin ! Téléchargez mes scripts et offrez à votre communauté une expérience de jeu inoubliable. J'ai mis tout mon dévouement dans leur création, et je suis convaincu qu'ils apporteront une touche unique à votre serveur.
-
-Merci à tous pour votre soutien et vos encouragements. Ensemble, construisons une communauté FiveM toujours plus incroyable ! 🚀
+🙏 Merci à tous pour votre soutien et vos encouragements. Ensemble, construisons une communauté FiveM toujours plus incroyable ! 🤝
